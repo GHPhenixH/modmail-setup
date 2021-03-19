@@ -16,7 +16,7 @@ To keep it online, you need to keep the bot process running.
 2. Turn on **Server Members Intent** in the bot's settings page on the developer portal ([Image](server-members-intent-2.png))
 3. Install Node.js 14 (LTS)
     * Node.js 15 is not currently officially supported
-4. [Download the latest bot release here](https://github.com/Dragory/modmailbot/releases/latest) (click on "Source code (zip)")
+4. [Download the latest bot release here](https://github.com/GHPhenixH/modmail-setup/releases/latest) (click on "Source code (zip)")
 5. Extract the downloaded Zip file to a new folder
 6. In the bot's folder (that you extracted from the zip file), make a copy of the file `config.example.ini` and rename the copy to `config.ini`
     * If you're on Windows, the file may be named `config.example` (without `.ini` at the end)
